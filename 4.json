@@ -1,0 +1,20 @@
+{
+    "description": "A bored ape created with creative coding", 
+    "external_url": "https://openseacreatures.io/3", 
+    "image": "https://raw.githubusercontent.com/jorgeochipinti97/metadata/main/2022.04.25-06.23.12.png", 
+    "name": "Bored Ape 4",
+    "attributes": [ 
+        {
+        "trait_type": "background", 
+        "value": "green"
+      }, 
+        {
+        "trait_type": "eyes", 
+        "value": "yes"
+      },
+        {
+        "trait_type": "warrior", 
+        "value": "yes"
+      }
+    ] 
+  }

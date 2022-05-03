@@ -1,0 +1,8 @@
+{
+  "name": "LazaroNFT CrativeCoding",
+  "description": "Creative coding is a collection developed by Jorge Ochipinti using his creativity to achieve these results in javascript canvas",
+  "image": "https://raw.githubusercontent.com/jorgeochipinti97/metadata/main/2022.04.25-04.48.14.png",
+  "external_link": "external-link-url",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x1899a1DaDA493f5B0Ed642e537bDB03685a03d6C" 
+}
