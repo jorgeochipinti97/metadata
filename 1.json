@@ -1,20 +1,20 @@
+
+   
 {
-    "description": "A bored ape created with creative coding", 
-    "external_url": "https://openseacreatures.io/3", 
-  "image": "https://raw.githubusercontent.com/jorgeochipinti97/metadata/main/2022.04.25-04.48.14.png", 
-    "name": "Bored Ape 2",
-    "attributes": [ 
-        {
-        "trait_type": "background", 
-        "value": "green"
-      }, 
-        {
-        "trait_type": "eyes", 
-        "value": "yes"
-      },
-        {
-        "trait_type": "warrior", 
-        "value": "yes"
-      }
-    ] 
-  }
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Identifies the asset to which this NFT represents"
+        },
+        "description": {
+            "type": "string",
+            "description": "Describes the asset to which this NFT represents"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://raw.githubusercontent.com/jorgeochipinti97/metadata/main/2022.04.25-04.48.14.png"
+        }
+    }
+}
