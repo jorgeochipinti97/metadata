@@ -6,7 +6,7 @@
     "properties": {
         "name": {
             "type": "string",
-            "description": "Identifies the asset to which this NFT represents"
+            "description": "JSON Identifies the asset to which this NFT represents"
         },
         "description": {
             "type": "string",
